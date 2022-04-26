@@ -1,6 +1,6 @@
 # Comandos-Instalaciones-Linux-apt
 Comandos para la instalación  de programas en Linux (Cualquier distribución basada en debían).
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 KALI LINUX
 ¿Que es lo primero que debo hacer en Linux?
 -Actualizacion e instalacion de paquetes:
@@ -14,7 +14,7 @@ KALI LINUX
 -Intalacion terminal:
 +$sudo apt-get install terminator -->Es una terminal que permite otras funcionalidades, tales como tener dos terminales en simultaneo.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 LINUX MINT
 ¿Que es lo primero que debo hacer en Linux?
@@ -27,7 +27,9 @@ LINUX MINT
 
 + Google Chrome:
    Ir a la pagina de descargas de Google Chrome: https://www.google.com/intl/es/chrome/?brand=CHBD&gclid=CjwKCAjwsJ6TBhAIEiwAfl4TWNj2J1ialnX6Eb-qQQRiL2-PlxpK13Dna77kvGzELQ3P_a1NxCvDExoChz8QAvD_BwE&gclsrc=aw.ds
+   
    Abrir una terminal en la ubicacion del archivo descargado.
+   
    Ejecutar los siguientes comandos:
    + $ ls --> Para mostrar el archivo dentro de la carpeta.
    + $ sudo dpkg -i "nombre del paquete" --> Para instalar el paquete indicado.
@@ -38,4 +40,11 @@ LINUX MINT
 -Instalaciones que ya incluje
 + Git
 + Python3
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+UBUNTU, LUBUNTU, KUBUNTU, SUBUNTU:
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+LINUX LITE:
+
 
