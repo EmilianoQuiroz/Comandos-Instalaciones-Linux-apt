@@ -2,7 +2,9 @@
 Comandos para la instalación  de programas en Linux (Cualquier distribución basada en debían).
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 KALI LINUX
+
 ¿Que es lo primero que debo hacer en Linux?
+
 -Actualizacion e instalacion de paquetes:
 
 + $sudo apt-get update -->Actualizacion de paquetes.
