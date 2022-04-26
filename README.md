@@ -42,7 +42,9 @@ LINUX MINT
    
 + Visual Studio Code:
 
-+Node js: 
++ Node js: 
+
++ Intellij IDE: 
 
 -Instalaciones que ya incluje
 + Git
