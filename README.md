@@ -17,6 +17,7 @@ KALI LINUX
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 LINUX MINT
+
 ¿Que es lo primero que debo hacer en Linux?
 
 -Actualizacion e instalacion de paquetes:
@@ -38,6 +39,8 @@ LINUX MINT
    + Y listo! Se instalaran las dependencias y estaria todo listo para que puedas utilizar Google Chrome!.
    
 + Visual Studio Code:
+
++Node js: 
 
 -Instalaciones que ya incluje
 + Git
