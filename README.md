@@ -47,13 +47,18 @@ LINUX MINT
    - $sudo apt install git
 
 + Visual Studio Code:
-
+   - El primer paso es descargar el paquete .deb del enlace de descarga de Visual Studio Code
+   https://code.visualstudio.com/docs/?dv=linux64_deb
+   - Luego debemos ubicar el paquete en la carpeta en la que se encuentra para abrir una terminal en esa ubicacion.
+   - Se deben ejecutar el siguiente comando:
+   - $ sudo apt install ./"Nombre del paquete"
+   - De esta manera se instalaran todas las dependencias del paquete.
 + Node js: 
 
 + Intellij IDE: 
 
 - Instalaciones que ya incluje
-- 
+
 + Python3 (V 3.8.10)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
