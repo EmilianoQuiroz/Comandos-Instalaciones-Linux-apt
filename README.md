@@ -40,6 +40,10 @@ LINUX MINT
    + $ sudo dpkg -i "nombre del paquete" --> Para instalar el paquete indicado.
    + Y listo! Se instalaran las dependencias y estaria todo listo para que puedas utilizar Google Chrome!.
    
++Git: 
+
+   -$ sudo apt install git
+
 + Visual Studio Code:
 
 + Node js: 
