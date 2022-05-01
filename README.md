@@ -40,9 +40,9 @@ LINUX MINT
    + $ sudo dpkg -i "nombre del paquete" --> Para instalar el paquete indicado.
    + Y listo! Se instalaran las dependencias y estaria todo listo para que puedas utilizar Google Chrome!.
    
-+Git: 
++ Git: 
 
-   -$ sudo apt install git
+   - $sudo apt install git
 
 + Visual Studio Code:
 
@@ -50,9 +50,9 @@ LINUX MINT
 
 + Intellij IDE: 
 
--Instalaciones que ya incluje
-+ Git
-+ Python3
+- Instalaciones que ya incluje
+- 
++ Python3 (V 3.8.10)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 UBUNTU, LUBUNTU, KUBUNTU, SUBUNTU:
