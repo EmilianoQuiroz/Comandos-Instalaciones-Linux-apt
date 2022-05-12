@@ -56,6 +56,13 @@ LINUX MINT
 + Node js: 
 
 + Intellij IDE: 
+   - El primer paso es ir al siguiente link de descarga: 
+   https://www.jetbrains.com/es-es/idea/download/download-thanks.html?platform=linux
+   - El segundo paso es ubicar el archivo en la carpeta y descomprimir el archivo en esa ubicacion.
+   - El tercer paso es entrar a la carpeta descomprimida y abrir una terminal en la carpeta "bin".
+   - El segundo paso es ejecutar el siguiente comando: 
+    +  ./idea.sh
+   - Esto nos abrira una ventana que nos ŕegunta si estamos de acuerdo con las politicas de Intellij IDEA, luego de dar a aceptar ya podremos usar el          IDE.
 
 - Instalaciones que ya incluje
 
