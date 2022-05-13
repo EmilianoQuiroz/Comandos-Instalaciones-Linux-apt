@@ -53,6 +53,17 @@ LINUX MINT
    - Se deben ejecutar el siguiente comando:
    - $ sudo apt install ./"Nombre del paquete"
    - De esta manera se instalaran todas las dependencias del paquete.
++ XAMPP:
++ Instalacion:
+   -
++ ¿Como acceder desde la consola?
+   - $dir
+   - $cd Descargas
+   - $ls
+   - $cd /opt
+   - $ls
+   - ./manager-linux-x64.run
+   - Automaticamente se abrira la interfaz de XAMPP
 + Node js: 
 
 + Intellij IDE: 
