@@ -108,6 +108,8 @@ Comandos para la instalación  de programas en Linux (Cualquier distribución ba
 --- 
 # Node js: 
 ---
+# Docker
+---
 # Intellij IDE: 
    - El primer paso es ir al siguiente link de descarga: 
    https://www.jetbrains.com/es-es/idea/download/download-thanks.html?platform=linux
