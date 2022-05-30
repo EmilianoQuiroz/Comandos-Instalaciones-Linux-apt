@@ -7,8 +7,8 @@ Comandos para la instalación  de programas en Linux (Cualquier distribución ba
 
 Actualizacion e instalacion de paquetes:
 
-+ $sudo apt-get update -->Actualizacion de paquetes.
-+ $sudo apt-get upgrade -->Instalacion de los paquetes.
+	+ $sudo apt-get update -->Actualizacion de paquetes.
+	+ $sudo apt-get upgrade -->Instalacion de los paquetes.
  
 Versiones de programas:
 
