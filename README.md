@@ -32,9 +32,33 @@ Comandos para la instalación  de programas en Linux (Cualquier distribución ba
 
 + Creacion o modificacion de contraseña.
 
-		$passwd -->Este conmando nos permite cambiar nuestra contraseña de superusuario o crearla en el caso de que no la tengamos
+		$passwd -->Este comando nos permite cambiar nuestra contraseña de superusuario o crearla en el caso de que no la tengamos
++ ¿Como saber en que ruta de archivos me encuentro?
 
+		$pwd -->Este simple comando nos indica la ruta de archivos en la que nos encontramos
++ Distado de carpetas y archivos del directorio en el que me encuentro
 
+		$ls -->Listado de archivos y carpetas
++ Change directory
+		
+		$cd "Nombre de la carpeta" -->Este comando nos permite cambiar de carpeta.
+		$cd .. -->Nos devuelve a la carpeta anterior.
++ Creacion de carpetas.
+		
+		$mkdir "Nombre de la nueva carpeta" -->Este comando nos permite crear un nuevo directorio en la ruta indicada.
++ ¿Como mover una carpeta?
+
+		$mv /rutaactualdela/carpetaquequiero/mover /rutaalaque/quiero/moverla/carpeta
++ ¿Como copiar una carpeta y pegarla en otra direccion?
+
+		$cp -R /rutaactualde/lacarpeta /rutaendondequiero/pegarlacarpeta
++ ¿Como eliminar una carpeta?
+		
+		$rm -R /rutaactualde/lacarpeta 
++ ¿Como visualizar el manual de linux?
+		
+		$man -->Este comando nos lleva al manual de linux junto con todas sus especificaciones
+		
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 # Instalaciones Frecuentes:
 ---
