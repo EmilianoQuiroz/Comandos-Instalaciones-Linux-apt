@@ -1,19 +1,29 @@
 # Comandos-Instalaciones-Linux-apt
 Comandos para la instalación  de programas en Linux (Cualquier distribución basada en debían).
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-COMANDOS IMPORTANTES:
+# COMANDOS IMPORTANTES:
 
 ¿Que es lo primero que debo hacer en Linux?
 
--Actualizacion e instalacion de paquetes:
+- Actualizacion e instalacion de paquetes:
 
 + $sudo apt-get update -->Actualizacion de paquetes.
 + $sudo apt-get upgrade -->Instalacion de los paquetes.
  
--Versiones de programas:
+- Versiones de programas:
 
 + "Nombre del programa" --version -->Sirve para saber que version del programa indicado tenemos instalada, en caso de que lo tengamos.
 
+¿Como visualizar el consumo de memoria RAM?
+
+- $free -h -->Este comando nos detallara la capacidad de nuestra memoria ram y cuanto estamos consumuendo.
+
+¿Como visualizar informacion del sistema?
+
+- $neofetch -->Este comando nos detalla toda la informacion del sistema. 
+
+En caso de no tenerlo instalado puedes hacerlo con el suguiente comando: 
+	+ $sudo apt install neofetch
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 # Instalaciones Frecuentes:
