@@ -16,7 +16,7 @@ COMANDOS IMPORTANTES:
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-- Instalaciones Frecuentes:
+# Instalaciones Frecuentes:
 ---
 + Instalacion de la terminal "terminator".
 
