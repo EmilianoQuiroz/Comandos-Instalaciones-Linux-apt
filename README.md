@@ -5,12 +5,12 @@ Comandos para la instalación  de programas en Linux (Cualquier distribución ba
 
 ¿Que es lo primero que debo hacer en Linux?
 
-- Actualizacion e instalacion de paquetes:
+Actualizacion e instalacion de paquetes:
 
 + $sudo apt-get update -->Actualizacion de paquetes.
 + $sudo apt-get upgrade -->Instalacion de los paquetes.
  
-- Versiones de programas:
+Versiones de programas:
 
 + "Nombre del programa" --version -->Sirve para saber que version del programa indicado tenemos instalada, en caso de que lo tengamos.
 
@@ -23,7 +23,17 @@ Comandos para la instalación  de programas en Linux (Cualquier distribución ba
 - $neofetch -->Este comando nos detalla toda la informacion del sistema. 
 
 En caso de no tenerlo instalado puedes hacerlo con el suguiente comando: 
-	+ $sudo apt install neofetch
+
++ $sudo apt install neofetch
+
+Permisos de super usuaio
+
++ $su -->Luego de ejecutar este comando nos pedira la constraseña de superusuario y listo! ya tenemos permisos de administrador
+
+Creacion o modificacion de contraseña.
+
++ $passwd -->Este conmando nos permite cambiar nuestra contraseña de superusuario o crearla en el caso de que no la tengamos
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 # Instalaciones Frecuentes:
@@ -79,7 +89,11 @@ En caso de no tenerlo instalado puedes hacerlo con el suguiente comando:
    - El segundo paso es ejecutar el siguiente comando: 
     +  ./idea.sh
    - Esto nos abrira una ventana que nos ŕegunta si estamos de acuerdo con las politicas de Intellij IDEA, luego de dar a aceptar ya podremos usar el          IDE.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---
+# Problemas frecuentes.
+---
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Instalaciones que ya incluje
 
