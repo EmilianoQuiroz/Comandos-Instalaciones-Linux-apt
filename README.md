@@ -5,34 +5,34 @@ Comandos para la instalación  de programas en Linux (Cualquier distribución ba
 
 ¿Que es lo primero que debo hacer en Linux?
 
-Actualizacion e instalacion de paquetes:
++ Actualizacion e instalacion de paquetes:
 
-	+ $sudo apt-get update -->Actualizacion de paquetes.
-	+ $sudo apt-get upgrade -->Instalacion de los paquetes.
+		 $sudo apt-get update -->Actualizacion de paquetes.
+		 $sudo apt-get upgrade -->Instalacion de los paquetes.
  
-Versiones de programas:
++ Versiones de programas:
 
-+ "Nombre del programa" --version -->Sirve para saber que version del programa indicado tenemos instalada, en caso de que lo tengamos.
+		"Nombre del programa" --version -->Sirve para saber que version del programa indicado tenemos instalada, en caso de que lo tengamos.
 
-¿Como visualizar el consumo de memoria RAM?
++ ¿Como visualizar el consumo de memoria RAM?
 
-- $free -h -->Este comando nos detallara la capacidad de nuestra memoria ram y cuanto estamos consumuendo.
+		$free -h -->Este comando nos detallara la capacidad de nuestra memoria ram y cuanto estamos consumuendo.
 
-¿Como visualizar informacion del sistema?
++ ¿Como visualizar informacion del sistema?
 
-- $neofetch -->Este comando nos detalla toda la informacion del sistema. 
+		$neofetch -->Este comando nos detalla toda la informacion del sistema. 
 
-En caso de no tenerlo instalado puedes hacerlo con el suguiente comando: 
++ En caso de no tenerlo instalado puedes hacerlo con el suguiente comando: 
 
-+ $sudo apt install neofetch
+		$sudo apt install neofetch
 
-Permisos de super usuaio
++ Permisos de super usuaio
 
-+ $su -->Luego de ejecutar este comando nos pedira la constraseña de superusuario y listo! ya tenemos permisos de administrador
+		$su -->Luego de ejecutar este comando nos pedira la constraseña de superusuario y listo! ya tenemos permisos de administrador
 
-Creacion o modificacion de contraseña.
++ Creacion o modificacion de contraseña.
 
-+ $passwd -->Este conmando nos permite cambiar nuestra contraseña de superusuario o crearla en el caso de que no la tengamos
+		$passwd -->Este conmando nos permite cambiar nuestra contraseña de superusuario o crearla en el caso de que no la tengamos
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -40,7 +40,7 @@ Creacion o modificacion de contraseña.
 ---
 + Instalacion de la terminal "terminator".
 
-	+ $sudo apt-get install terminator -->Es una terminal que permite otras funcionalidades, tales como tener dos terminales en simultaneo.
+			$sudo apt-get install terminator -->Es una terminal que permite otras funcionalidades, tales como tener dos terminales en simultaneo.
 ---
 # Google Chrome:
 + PASO 1:
@@ -50,33 +50,36 @@ Creacion o modificacion de contraseña.
 + PASO 3:
    Ejecutar los siguientes comandos:
    
-   + $ ls --> Para mostrar el archivo dentro de la carpeta.
-   + $ sudo dpkg -i "nombre del paquete" --> Para instalar el paquete indicado.
+   	$ ls --> Para mostrar el archivo dentro de la carpeta.
+   	$ sudo dpkg -i "nombre del paquete" --> Para instalar el paquete indicado.
    + Y listo! Se instalaran las dependencias y estaria todo listo para que puedas utilizar Google Chrome!.
 ---
 # Git: 
 + PASO 1:
-	- Ejecutar en consola: 
-   		- $sudo apt install git
+- Ejecutar en consola
+	
+			$sudo apt install git
 ---
 # Visual Studio Code:
    - El primer paso es descargar el paquete .deb del enlace de descarga de Visual Studio Code
    https://code.visualstudio.com/docs/?dv=linux64_deb
    - Luego debemos ubicar el paquete en la carpeta en la que se encuentra para abrir una terminal en esa ubicacion.
    - Se deben ejecutar el siguiente comando:
-   - $ sudo apt install ./"Nombre del paquete"
-   - De esta manera se instalaran todas las dependencias del paquete.
+   			
+			$ sudo apt install ./"Nombre del paquete" -->De esta manera se instalaran todas las dependencias del paquete.
 ---
 # XAMPP (Debian):
 + Instalacion:
    -
 + ¿Como acceder desde la consola?
-   - $dir
-   - $cd Descargas
-   - $ls
-   - $cd /opt
-   - $ls
-   - ./manager-linux-x64.run
+   		
+		$dir
+   		$cd Descargas
+   		$ls
+   		$cd /opt
+   		$ls
+   		./manager-linux-x64.run
+   
    - Automaticamente se abrira la interfaz de XAMPP
 --- 
 # Node js: 
@@ -87,7 +90,9 @@ Creacion o modificacion de contraseña.
    - El segundo paso es ubicar el archivo en la carpeta y descomprimir el archivo en esa ubicacion.
    - El tercer paso es entrar a la carpeta descomprimida y abrir una terminal en la carpeta "bin".
    - El segundo paso es ejecutar el siguiente comando: 
-    +  ./idea.sh
+   		
+			+  ./idea.sh
+			
    - Esto nos abrira una ventana que nos ŕegunta si estamos de acuerdo con las politicas de Intellij IDEA, luego de dar a aceptar ya podremos usar el          IDE.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---
