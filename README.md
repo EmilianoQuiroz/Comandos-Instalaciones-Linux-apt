@@ -107,6 +107,34 @@ Comandos para la instalación  de programas en Linux (Cualquier distribución ba
    - Automaticamente se abrira la interfaz de XAMPP
 --- 
 # Node js: 
+
+- Básicamente la instalación de node js es con la herramienta de NVM 
+- Actualizamos los paquetes: 
+
+		 $sudo apt update
+		 $sudo apt upgrade
+- Instalamos curl para poder instalar NVM
+		
+		$sudo apt install curl 
+- Revisión de secuencia de comandos: 
+
+		$curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh
+- Descargamos y ejecutamos 
+		
+		$curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+- Obtenemos secuencia de comandos 
+		
+		$source ~/.bashrc
+- Preguntamos versiones
+
+		$nvm list-remote
+- Instalamos la versión deseada 
+
+		$nvm install vx
+- Revisamos la versión instalada
+	
+		$nvm list
+		$sudo apt install npm
 ---
 # Docker
 ---
