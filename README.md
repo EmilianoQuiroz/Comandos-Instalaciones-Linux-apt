@@ -146,6 +146,8 @@ Comandos para la instalación  de programas en Linux (Cualquier distribución ba
    - El segundo paso es ejecutar el siguiente comando: 
    		
 			+  ./idea.sh
+---
+# Error de reconocimiento de la libreria math para programar en C
 			
    - Esto nos abrira una ventana que nos ŕegunta si estamos de acuerdo con las politicas de Intellij IDEA, luego de dar a aceptar ya podremos usar el          IDE.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
