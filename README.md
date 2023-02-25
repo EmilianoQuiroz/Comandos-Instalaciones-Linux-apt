@@ -141,6 +141,9 @@ Comandos necesarios para sobrevivir en Linux (Cualquier distribución basada en 
 ---
 # React Native CLI.
 
+![image](https://user-images.githubusercontent.com/78452543/221329875-3d5202bd-ac5b-4c92-98f0-9203598cd75b.png)
+
+
 ### Requisitos previos:
 - Visual Studio Code
 - Android Studio (para usar su emulador)
