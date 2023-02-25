@@ -1,7 +1,10 @@
 # Comandos-Instalaciones-Linux-apt
+
+![image](https://user-images.githubusercontent.com/78452543/221329296-33713bb2-5b28-4068-a43b-0d69afabe022.png)
+
 Comandos para la instalación  de programas en Linux (Cualquier distribución basada en debían).
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-# COMANDOS IMPORTANTES:
+## COMANDOS IMPORTANTES:
 
 ¿Que es lo primero que debo hacer en Linux?
 
