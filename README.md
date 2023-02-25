@@ -139,13 +139,13 @@ Comandos para la instalación  de programas en Linux (Cualquier distribución ba
 # React Native CLI.
 
 ### Requisitos previos:
-	- Visual Studio Code
-	- Android Studio (para usar su emulador)
-	- Node js
-	- npm
-	- Java (en este caso la version 8)
+- Visual Studio Code
+- Android Studio (para usar su emulador)
+- Node js
+- npm
+- Java (en este caso la version 8)
 	
-			sudo apt-get install openjdk-8-jdk
+		sudo apt-get install openjdk-8-jdk
 
 ###
 ---
