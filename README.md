@@ -2,9 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/78452543/221329296-33713bb2-5b28-4068-a43b-0d69afabe022.png)
 
-Comandos para la instalación  de programas en Linux (Cualquier distribución basada en debían).
+Comandos necesarios para sobrevivir en Linux (Cualquier distribución basada en debian).
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-## COMANDOS IMPORTANTES:
+## Comandos basicos:
 
 ¿Que es lo primero que debo hacer en Linux?
 
@@ -149,6 +149,10 @@ Comandos para la instalación  de programas en Linux (Cualquier distribución ba
 - Java (en este caso la version 8)
 	
 		sudo apt-get install openjdk-8-jdk
+
++ Instalacion de React Native CLI: Ejecutar el siguiente comando en la terminal.
+
+		npm install -g react-native-cli
 
 ###
 ---
